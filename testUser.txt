@@ -1,0 +1,8 @@
+user@hotmail.com  abdi
+user1@hotmail.com ali
+
+Name abdi :Adan
+Email: dan_007@hotmail.com
+Gender: Male
+Address: 
+
